@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/movie_app_2020/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/movie_app_2020/static/js/main.b3c3dd27.chunk.js",
-    "main.js.map": "/movie_app_2020/static/js/main.b3c3dd27.chunk.js.map",
-    "runtime-main.js": "/movie_app_2020/static/js/runtime-main.abce826c.js",
-    "runtime-main.js.map": "/movie_app_2020/static/js/runtime-main.abce826c.js.map",
-    "static/js/2.e729f44f.chunk.js": "/movie_app_2020/static/js/2.e729f44f.chunk.js",
-    "static/js/2.e729f44f.chunk.js.map": "/movie_app_2020/static/js/2.e729f44f.chunk.js.map",
-    "index.html": "/movie_app_2020/index.html",
-    "precache-manifest.08ddc27164716479ca9bce45c0868a8f.js": "/movie_app_2020/precache-manifest.08ddc27164716479ca9bce45c0868a8f.js",
-    "service-worker.js": "/movie_app_2020/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/movie_app_2020/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.e729f44f.chunk.js.LICENSE.txt": "/movie_app_2020/static/js/2.e729f44f.chunk.js.LICENSE.txt"
+    "main.css": "/sentiment-analysis-imdb-nbc/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/sentiment-analysis-imdb-nbc/static/js/main.a3a7c617.chunk.js",
+    "main.js.map": "/sentiment-analysis-imdb-nbc/static/js/main.a3a7c617.chunk.js.map",
+    "runtime-main.js": "/sentiment-analysis-imdb-nbc/static/js/runtime-main.d1ae2f54.js",
+    "runtime-main.js.map": "/sentiment-analysis-imdb-nbc/static/js/runtime-main.d1ae2f54.js.map",
+    "static/js/2.e729f44f.chunk.js": "/sentiment-analysis-imdb-nbc/static/js/2.e729f44f.chunk.js",
+    "static/js/2.e729f44f.chunk.js.map": "/sentiment-analysis-imdb-nbc/static/js/2.e729f44f.chunk.js.map",
+    "index.html": "/sentiment-analysis-imdb-nbc/index.html",
+    "precache-manifest.b568a71b78a7a0e0774868c1b88db5c1.js": "/sentiment-analysis-imdb-nbc/precache-manifest.b568a71b78a7a0e0774868c1b88db5c1.js",
+    "service-worker.js": "/sentiment-analysis-imdb-nbc/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/sentiment-analysis-imdb-nbc/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e729f44f.chunk.js.LICENSE.txt": "/sentiment-analysis-imdb-nbc/static/js/2.e729f44f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.abce826c.js",
+    "static/js/runtime-main.d1ae2f54.js",
     "static/js/2.e729f44f.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b3c3dd27.chunk.js"
+    "static/js/main.a3a7c617.chunk.js"
   ]
 }
